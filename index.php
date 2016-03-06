@@ -23,7 +23,7 @@ define('COMMON_PATH', PROJECT_PATH . 'Common/');
 // 定义应用目录
 define('APP_PATH', PROJECT_PATH . 'Application/');
 //应用运行缓存目录
-define("RUNTIME_PATH", SITE_PATH . "#runtime/");
+define("RUNTIME_PATH", SITE_PATH . "runtime/");
 //模板存放路径
 define('TEMPLATE_PATH', PROJECT_PATH . 'Template/');
 // 引入ThinkPHP入口文件
